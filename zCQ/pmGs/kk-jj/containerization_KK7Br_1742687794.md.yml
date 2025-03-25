@@ -29,7 +29,6 @@ jobs:
         - "chmod -R a+rw . || true"
         - "make cunit-test"
     - name: "Integration Tests"
-      script:
         - "chmod -R a+rw . || true"
         - ls /opt/python/3.7.1/bin && python --version && which virtualenv
         - "make integration"

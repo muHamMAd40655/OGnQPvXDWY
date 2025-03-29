@@ -13,7 +13,6 @@ Nobody in the first week of a foreign-language class believes comprehension will
 2. Get to know your neighbors:
 
 In most major disasters, as this book illustrates, the people who will save you will not be wearing badges. They will be your neighbors and your coworkers.
-
 3. Lower Your Anxiety Level:
 
 People with higher everyday anxiety levels may have a greater tendency to overreact or to misread danger signs.

@@ -31,7 +31,6 @@ function save_search_results()
         header('Content-Type: application/json');
         if ($result) {
             echo json_encode(array("status" => "1"));
-        } else {
             echo json_encode(mysqli_error($db));
         }
 
